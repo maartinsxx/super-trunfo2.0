@@ -107,11 +107,11 @@ Após a escolha, o programa:
 - Terminal (entrada e saída padrão)  
 
 = Exemplo de Saida
-(Selecionando a Opção 1 - Populçao)
+Exemplo (Selecionando a Opção 1 - Populçao)
 ![image](https://github.com/user-attachments/assets/7909f3b6-0577-46ae-b1e6-6874459f0764)
-(Selecionando a Opção 2 - Area)
+Exemplo (Selecionando a Opção 2 - Area)
 ![image](https://github.com/user-attachments/assets/a5d2b398-b4fe-4b79-9e85-23aa6222a680)
-(Resultado)
+Exemplo (Resultado)
 ![image](https://github.com/user-attachments/assets/1ace6b57-c11f-4a18-bc48-9974d24ee360)
 ---
 
