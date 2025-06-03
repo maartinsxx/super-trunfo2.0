@@ -28,7 +28,7 @@ Após o cadastro, as informações são exibidas de forma organizada na tela, si
 - Compilador GCC  
 - Terminal (entrada e saída padrão)
 
-- Exemplo de Saida
+= Exemplo de Saida
 ![image](https://github.com/user-attachments/assets/f2781ae7-fedf-46b4-8b5b-b50e1925609c)
 ---
 
@@ -58,6 +58,10 @@ Esses cálculos são exibidos com duas casas decimais, oferecendo ao jogador mai
 - Compilador GCC  
 - Terminal (entrada e saída padrão)  
 
+= Exemplo de Saida
+![image](https://github.com/user-attachments/assets/9a4df2d9-9f52-4b1a-b723-cc58959614d8)
+= Exemplo (Selecionando a opção 1 - População)
+![image](https://github.com/user-attachments/assets/1bfc360c-5641-437a-a948-b13ca67eac44)
 ---
 
 ## Desafio Nível Mestre - Comparação Avançada de Cartas
@@ -102,6 +106,13 @@ Após a escolha, o programa:
 - Compilador GCC  
 - Terminal (entrada e saída padrão)  
 
+= Exemplo de Saida
+(Selecionando a Opção 1 - Populçao)
+![image](https://github.com/user-attachments/assets/7909f3b6-0577-46ae-b1e6-6874459f0764)
+(Selecionando a Opção 2 - Area)
+![image](https://github.com/user-attachments/assets/a5d2b398-b4fe-4b79-9e85-23aa6222a680)
+(Resultado)
+![image](https://github.com/user-attachments/assets/1ace6b57-c11f-4a18-bc48-9974d24ee360)
 ---
 
 // 📚 Aprendizados ao Longo do Projeto
