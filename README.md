@@ -28,7 +28,7 @@ Após o cadastro, as informações são exibidas de forma organizada na tela, si
 - Compilador GCC  
 - Terminal (entrada e saída padrão)
 
-// Exemplo de Saida
+- Exemplo de Saida
 ![image](https://github.com/user-attachments/assets/f2781ae7-fedf-46b4-8b5b-b50e1925609c)
 ---
 
